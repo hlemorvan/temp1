@@ -1,0 +1,24 @@
+{
+  "name": "temp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "generator-jhipster": "^7.4.1",
+    "jhipster": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlemorvan/temp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlemorvan/temp1/issues"
+  },
+  "homepage": "https://github.com/hlemorvan/temp1#readme"
+}
